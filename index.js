@@ -13,17 +13,17 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
-const telegram = 'LINK TELEMU'; 
-const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'LINK YTMU';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+const  BotName  =  'MrX-Aril' ;
+const    instagram    =    'https://www.instagram.com/gandi10117;
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+const     kapanbotaktif     =     'KETIKA HANYA DIAKTIFKAN' ;
+
+// const grupch1 = 'https://chat.whatsapp.com/DLeVA83EqwD03GtXRKctBm';
+// const grupch2 = 'belum ada grup';
 const
-{
-   WAConnection,
-   MessageType,
+<    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     <    / s> </    s    >     < / s> </    s    >     <    / s> orang </    s >
+   Koneksi WAC ,
+   MessageType ,
    Presence,
    MessageOptions,
    Mimetype,
